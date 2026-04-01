@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 // java code to find prime Number
 
@@ -31,27 +31,3 @@ public class p12{
         sc.close();
     }
 }
-=======
-public class p12 {
-
-    public static int add(int a, int b) {
-        int sum = a + b;
-        return sum;
-    }
-
-   public static int sub(int c, int d) {
- 	int subb=c-d;
-	return subb;
-	}
-
-    public static void main(String[] args) {
-
-        int result = add(4, 6);
-	int res = sub(4,6);
-
-        System.out.println("Sum = " + result +"\nsubb ="+res );
-	
-	
-    }
-}
->>>>>>> 40297c0 (add 2 programs files p12 and p13)
